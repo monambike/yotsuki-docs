@@ -1,4 +1,4 @@
 # Yotsuki Documentation
-*(Projeto feito em 2018)*
+*(Project made in 2018)*
 
-Documentação do projeto yotsuki realizado na instituição SENAI. Documentos utilizados para a realização do projeto.
+Documentation of the Yotsuki project conducted at SENAI institution. Documents used for the project's execution.
